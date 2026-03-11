@@ -114,7 +114,7 @@ Add dashboard screenshots here.
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://github.com/mohamedramadan217">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
