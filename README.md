@@ -23,7 +23,7 @@ A backend system for a **Business Intelligence Dashboard** built with **PHP, MyS
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,git,github,json,postman" />
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,git,github,postman" />
 </p>
 
 ---
