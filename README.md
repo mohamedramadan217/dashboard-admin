@@ -108,5 +108,3 @@ Add dashboard screenshots here.
 ![Admin Dashboard](screenshots/dashboard.png)
 
 ![Analytics Dashboard](screenshots/analytics.png)
-```
-
