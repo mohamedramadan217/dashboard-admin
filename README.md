@@ -105,9 +105,9 @@ config/database.php
 
 Add dashboard screenshots here.
 
-```
-/screenshots/dashboard.png
-/screenshots/analytics.png
+![Admin Dashboard](screenshots/dashboard.png)
+
+![Analytics Dashboard](screenshots/analytics.png)
 ```
 
 ---
